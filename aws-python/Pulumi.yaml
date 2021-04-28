@@ -1,4 +1,4 @@
-name: quickstart
+name: aws-python
 runtime:
   name: python
   options:
